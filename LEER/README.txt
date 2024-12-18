@@ -21,7 +21,7 @@ Host github-for-yt
 5.- AGREGO LAS CLAVES PÚBLICAS EN CADA REPOSITORIO
 6.- CREO UN PROYECTO PARA CADA CUENTA DE GITHUB Y LO SUBO AL REPOSITORIO
 Inicio el repositorio con git init
-Agrego: git config user.email "cesarsebastian.dev@gmail.com"
+Agrego: git config user.email "tu_correo_electronico"
 Agrego los cambios hechos con: git add .
 Hago un commit: git commit -m "My first GitHub account"
 Agrego el repo de manera remota a mi proyecto con: git remote add origin git@tag_de_llave_ssh:nombre_de_usuario_en_github/nombre_del_repo.git
@@ -29,10 +29,12 @@ Subo cambios con: git push -u origin master O main
 
 PARA CLONAR Y SUBIR CAMBIOS:
 git clone git@tag_de_llave_ssh:nombre_de_usuario_en_github/nombre_del_repo.git
+ME IDENTIFICO Y REPITO EL PROCESO PREVIO
+Agrego: git config user.email "tu_correo_electronico"
 
 
 INFO EXTRA:
-ssh -T git@tag_de_llave_ssh      ME DICE SI ESTOY AUTENTICADO CORRECTAMENTE
+ssh -T git@tag_de_llave_ssh     LO EJECUTO EN LA TERMINAL Y ME DICE SI ESTOY AUTENTICADO CORRECTAMENTE
 
 SI HABIAS CONFIGURADO UNA CUENTA DE FORMA GLOBAL ANTES Y AHORA QUIERES USAR VARIAS CUENTAS AL MISMO TIEMPO, DEBES EJECUTAR LOS SIGUIENTES COMANDOS PARA BORRAR LA INFO GLOBAL:
 git config --global --unset user.name
