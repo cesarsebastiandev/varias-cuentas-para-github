@@ -5,8 +5,6 @@ Este es el código fuente del video de YouTube: [Cómo Gestionar Múltiples Cuen
 ## Apóyanos
 
 [Suscríbete](https://www.youtube.com/@CesarSebastianDev?sub_confirmation=1) a nuestro canal de YouTube
-[Suscríbete](https://www.youtube.com/@CesarSebastianDev?sub_confirmation=1){:target="_blank"} a nuestro canal de YouTube
-
 
 Donaciones por Paypal: [https://www.paypal.com/donate/?hosted_button_id=UNLT89FVZF6TE](https://www.paypal.com/donate/?hosted_button_id=UNLT89FVZF6TE)
 
